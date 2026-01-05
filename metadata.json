@@ -1,0 +1,7 @@
+{
+  "name": "L'Héritage Grand Hotel",
+  "description": "A premium 4-star luxury hotel website featuring high-end typography, smooth animations, and a seamless booking interface.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
